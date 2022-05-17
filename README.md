@@ -3,7 +3,6 @@
 - 👀 I’m interested in JS, CSS/SASS and HTML 
 - 🌱 I’m currently learning SASS 
 - 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me nazarov_asadbek_official@mail.ru -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
